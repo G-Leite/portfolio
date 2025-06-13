@@ -15,7 +15,7 @@ This portfolio contains:
 
 ### 🔎 Explore
 
-- [About Me](portfolio/about.md)
-- [Skills](portfolio/skills.md)
-- [Case Studies](portfolio/cases.md)
-- [Contact](portfolio/contact.md)
+- [About Me](about.md)
+- [Skills](skills.md)
+- [Case Studies](cases.md)
+- [Contact](contact.md)
