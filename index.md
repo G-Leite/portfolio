@@ -22,16 +22,9 @@ This portfolio showcases my technical capabilities, casework experience, and my 
 
 **I am open to projects, partnerships, or opportunities within Cybersecurity — with a strong preference for Digital Investigations and OSINT.**
 
-
-This portfolio contains:
-- ✅ Case studies from real-world OSINT investigations
-- 🔐 Capture The Flag (CTF) walkthroughs
-- ⚙️ My technical skillset and tools
-- 📬 Contact information for collaboration or hiring
-
 ---
 
-### 🔎 Explore
+## 🔎 Explore
 
 - [Skills](skills.md)
 - [Case Studies](cases.md)
