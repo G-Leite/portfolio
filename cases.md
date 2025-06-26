@@ -13,3 +13,10 @@ Complete technical breakdown of the Sakura Room CTF. Focused on logic, exploitat
 More case studies are being documented and will be added soon.
 
 🛠️ If you're looking for custom digital investigations or OSINT expertise, [get in touch](contact.md).
+
+---
+
+## 🔎 Explore
+- [Skills](skills.md)
+- [Home](index.md)
+- [Contact](contact.md)
