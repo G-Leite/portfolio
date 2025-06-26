@@ -34,3 +34,11 @@
 - Hardware Maintenance
 - Technical Support
 - Software Installation & Troubleshooting
+
+---
+
+## 🔎 Explore
+
+- [Home](index.md)
+- [Case Studies](cases.md)
+- [Contact](contact.md)
