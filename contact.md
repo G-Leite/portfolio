@@ -11,4 +11,4 @@ If you'd like to discuss a project, ask about my work, or explore a potential co
 
 - [Skills](skills.md)
 - [Case Studies](cases.md)
-- [Contact](index.md)
+- [Home](index.md)
