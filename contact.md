@@ -6,3 +6,9 @@ If you'd like to discuss a project, ask about my work, or explore a potential co
 - 🔗 LinkedIn: [Guilherme Leite](https://www.linkedin.com/in/guilherme-ferreira-leite-baa78a193/)
 
 *Note: I do not provide support or contact via phone or messaging apps.*
+---
+## 🔎 Explore
+
+- [Skills](skills.md)
+- [Case Studies](cases.md)
+- [Contact](index.md)
