@@ -1,5 +1,10 @@
 # Cybersecurity | OSINT & Digital Investigations
 
+- 📧 Email: guilhermefleite14@gmail.com  
+- 🔗 LinkedIn: [Guilherme Leite](https://www.linkedin.com/in/guilherme-ferreira-leite-baa78a193/)
+
+---
+
 Welcome! 
 
 I’m a Brazilian cybersecurity professional specialized in OSINT (Open Source Intelligence), Digital Investigations, and Threat Analysis. My focus is clear: turning information into actionable intelligence.
