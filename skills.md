@@ -1,3 +1,8 @@
+- 📧 Email: guilhermefleite14@gmail.com  
+- 🔗 LinkedIn: [Guilherme Leite](https://www.linkedin.com/in/guilherme-ferreira-leite-baa78a193/)
+
+---
+
 # Technical Skills
 
 ### 🔐 Cybersecurity & OSINT
