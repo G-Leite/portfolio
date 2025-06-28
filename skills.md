@@ -1,10 +1,10 @@
+# Technical Skills
+
 - 📧 Email: guilhermefleite14@gmail.com  
 - 🔗 LinkedIn: [Guilherme Leite](https://www.linkedin.com/in/guilherme-ferreira-leite-baa78a193/)
 
 ---
   
-# Technical Skills
-
 ### 🏅 Academic & Certificates
 - System Analysis and Development Degree (Universidade Cesumar - 2024)
 - Blue Team Junior Analyst (Security Blue Team - 2024)
