@@ -1,5 +1,10 @@
 # Case Studies
 
+- 📧 Email: guilhermefleite14@gmail.com  
+- 🔗 LinkedIn: [Guilherme Leite](https://www.linkedin.com/in/guilherme-ferreira-leite-baa78a193/)
+
+---
+
 ### 📌 OSINT Investigation: Stalker Case
 Confirmed the physical address of a suspected stalker based on image analysis of a Facebook cover photo, cross-referenced with open data, metadata, and behavioral patterns.  
 > [Read full case study →](/cases/case-study-stalker.md)
