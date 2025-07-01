@@ -7,7 +7,7 @@
 
 ### 📌 OSINT Investigation: Stalker Case
 Confirmed the physical address of a suspected stalker based on image analysis of a Facebook cover photo, cross-referenced with open data, metadata, and behavioral patterns.  
-> [Read full case study →](/cases/case-study-stalker.md)
+> [Read full case study →](https://medium.com/@guilhermefleite14/how-i-tracked-down-a-stalker-using-osint-6af3a89a958d)
 
 ### 🎯 CTF Walkthrough: Sakura Room
 Complete technical breakdown of the Sakura Room CTF. Focused on logic, exploitation, and enumeration.  
